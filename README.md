@@ -9,7 +9,7 @@
     <a href=https://discordapp.com/users/889327846898663434>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-<img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif"  min-width="200px" max-width="200px" width="370px" align="right">
+<img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif"  min-width="200px" max-width="200px" width="350px" align="right">
 
 <p align="left">
     Meu nome é Samuel, tenho 17 anos e moro em São Paulo. Gosto de tecnologias e jogos.
