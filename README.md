@@ -19,7 +19,7 @@
 # Minhas Habilidades <img src = https://media.tenor.com/28ZaziH4y1kAAAAM/ugly-plankton-meme-ugly-plankton.gif width="30px">
 ## <img src = https://github.githubassets.com/images/icons/emoji/unicode/25aa.png?v8 width="20px">Software 💻
 <p align='left'>
-    <img src=https://skillicons.dev/icons?i=cs,html,css,lua,mysql><br>
+    <img src=https://skillicons.dev/icons?i=cs,html,css,js,lua,mysql><br>
     
 ## <img src = https://github.githubassets.com/images/icons/emoji/unicode/25aa.png?v8 width="20px">Hardware 📟
 - Montagem, Limpeza e Manutenção de Computadores
