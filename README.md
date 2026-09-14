@@ -12,7 +12,7 @@
 <img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif"  min-width="200px" max-width="200px" width="350px" align="right">
 
 <p align="left">
-    Meu nome é Samuel, tenho 17 anos e moro em São Paulo. Gosto de tecnologias e jogos.
+    Meu nome é Samuel, tenho 18 anos e moro em São Paulo. Gosto de tecnologias e jogos.
     Atualmente estou fazendo curso de TI, estamos quase acabando e logo logo entrarei em uma faculdade de <strong> ADS!</strong>
 </p>
 
